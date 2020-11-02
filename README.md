@@ -12,7 +12,7 @@ samples, guidance on mobile development, and a full API reference.
 
 # Icon
 
-<img src="https://user-images.githubusercontent.com/73339220/97869158-c4aa5680-1d32-11eb-974f-1bf4de8f7624.png" width=200 />
+<img src="https://user-images.githubusercontent.com/73339220/97869158-c4aa5680-1d32-11eb-974f-1bf4de8f7624.png" width=150 />
 
 # Screenshot
 
